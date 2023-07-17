@@ -13,3 +13,15 @@ The process of generating low-light LR face images can be formulated as ${LR}_{l
 More details are provided in [Learning to Hallucinate Face in the Dark](https://ieeexplore.ieee.org/document/10180077).
 
 <div align=center><img src="datasetsample.png" width="100%"></img></div>
+
+
+## Citation
+If you find the code helpful in your resarch or work, please cite the following paper.
+```
+@article{wang2023learning,
+  title={Learning to Hallucinate Face in the Dark},
+  author={Wang, Yuanzhi and Lu, Tao and Yao, Yuan and Zhang, Yanduo and Xiong, Zixiang},
+  journal={IEEE Transactions on Multimedia},
+  year={2023},
+  publisher={IEEE}
+}
